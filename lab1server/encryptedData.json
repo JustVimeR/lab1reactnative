@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Khoor Zruog",
+    "method": "caesar",
+    "key": "3"
+  },
+  {
+    "text": "Pslza Gyb",
+    "method": "caesar",
+    "key": "7"
+  },
+  {
+    "text": "U2VsbG8=",
+    "method": "xor",
+    "key": "5"
+  },
+  {
+    "text": "Fh svcl ivyzjo",
+    "method": "caesar",
+    "key": "7"
+  }
+]
