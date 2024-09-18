@@ -18,5 +18,30 @@
     "text": "Fh svcl ivyzjo",
     "method": "caesar",
     "key": "7"
+  },
+  {
+    "text": "Df mthmz xufydqpn",
+    "method": "caesar",
+    "key": "5"
+  },
+  {
+    "text": "Чіпцчл илпчетчіж жіифужіиегчв сужтіо і цуюіупшрвчшхтіо ксіцчужлс рітідс, сегчв фіктежервтло ьехепчіх і ктеятло жльужтло фучітюіер. ",
+    "method": "caesar",
+    "key": "5"
+  },
+  {
+    "text": "Хвнцхп'гпнхзкхёе'еёгийеёгзщхы'лйекёо'ё'цйсёйнфмыхфчкёо'алёцхйепл'мёкёшл+'лзщхы'иёакзезмыкпо'тзчзнхвч'ё'акзркпо'ептйекпо'ийхвксёзм)'",
+    "method": "xor",
+    "key": "7"
+  },
+  {
+    "text": "Knwxy, N bfpj zu. Ymjs, N ljy iwjxxji. N bfqp yt xhmttq. ",
+    "method": "caesar",
+    "key": "5"
+  },
+  {
+    "text": "Clwvq)%L%rdn`%pu+%Qm`k)%L%b`q%aw`vv`a+%L%rdin%qj%vfmjji+%",
+    "method": "xor",
+    "key": "5"
   }
 ]
