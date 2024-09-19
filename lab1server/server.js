@@ -50,6 +50,23 @@ app.get('/data', (req, res) => {
   res.json(data);
 });
 
+app.delete('/delete', (req, res) => {
+  const { text, method, key } = req.body;
+
+  let data = getEncryptedData();
+  const initialLength = data.length;
+
+  data = data.filter(entry => !(entry.text === text && entry.method === method && entry.key === key));
+
+  if (data.length === initialLength) {
+    return res.status(404).send({ message: 'Текст не знайдено для видалення' });
+  }
+
+  saveEncryptedData(data);
+  res.send({ message: 'Текст успішно видалено' });
+});
+
+
 // Запуск сервера
 app.listen(3000, () => {
   console.log('Сервер запущено на порті 3000');

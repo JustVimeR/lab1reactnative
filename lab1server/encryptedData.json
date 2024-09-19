@@ -5,16 +5,6 @@
     "key": "3"
   },
   {
-    "text": "Pslza Gyb",
-    "method": "caesar",
-    "key": "7"
-  },
-  {
-    "text": "U2VsbG8=",
-    "method": "xor",
-    "key": "5"
-  },
-  {
     "text": "Fh svcl ivyzjo",
     "method": "caesar",
     "key": "7"
@@ -25,22 +15,37 @@
     "key": "5"
   },
   {
-    "text": "Чіпцчл илпчетчіж жіифужіиегчв сужтіо і цуюіупшрвчшхтіо ксіцчужлс рітідс, сегчв фіктежервтло ьехепчіх і ктеятло жльужтло фучітюіер. ",
-    "method": "caesar",
-    "key": "5"
-  },
-  {
-    "text": "Хвнцхп'гпнхзкхёе'еёгийеёгзщхы'лйекёо'ё'цйсёйнфмыхфчкёо'алёцхйепл'мёкёшл+'лзщхы'иёакзезмыкпо'тзчзнхвч'ё'акзркпо'ептйекпо'ийхвксёзм)'",
-    "method": "xor",
-    "key": "7"
-  },
-  {
     "text": "Knwxy, N bfpj zu. Ymjs, N ljy iwjxxji. N bfqp yt xhmttq. ",
     "method": "caesar",
     "key": "5"
   },
   {
     "text": "Clwvq)%L%rdn`%pu+%Qm`k)%L%b`q%aw`vv`a+%L%rdin%qj%vfmjji+%",
+    "method": "xor",
+    "key": "5"
+  },
+  {
+    "text": "E hera ej w dkqoa jawn pda ikqjpwejo. E dwra psk xnkpdano wjz kja oeopan, wjz E swo xknj hwop. Iu bwpdan pawydao iwpdaiwpeyo, wjz iu ikpdan eo w jqnoa wp w xec dkolepwh. Iu xnkpdano wna ranu oiwnp wjz skng dwnz ej oydkkh. Iu oeopan eo w janrkqo cenh, xqp oda eo ranu gejz. Iu cnwjzikpdan whok herao sepd qo. Oda ywia bnki Epwhu sdaj E swo psk uawno khz. Oda dwo cnksj khz, xqp oda eo opehh ranu opnkjc. Oda ykkgo pda xaop bkkz!",
+    "method": "caesar",
+    "key": "412"
+  },
+  {
+    "text": "B ebox bg t ahnlx gxtk max fhngmtbgl. B atox mph ukhmaxkl tgw hgx lblmxk, tgw B ptl uhkg etlm.",
+    "method": "caesar",
+    "key": "4"
+  },
+  {
+    "text": "Дреіцсі упдск тфждсійдцтфіє утєсіхцв єкуфдєздпкхг: єіс хгжсчє-цдок еифижд ртфг. Уфтхцгждвюкхб еіптв скцотв єіз у’єзихцдпч удр’гцскод ",
+    "method": "caesar",
+    "key": "4"
+  },
+  {
+    "text": "Диеђцйђ$лпдйм$кфздйђгдцкфђж$лкжйђхцъ$жмлфджадпмхы>$жђй$хызйчж)цдом$ебфбзд$икфы*$Лфкхцыздъумхш$еђпкъ$ймцокъ$жђа$л”ѐабхцдпч$лди”ыцймод$",
+    "method": "xor",
+    "key": "4"
+  },
+  {
+    "text": "Кахазѓхпе%лчхнйеинр%виеищ%ие%кхепчнуѓ%ё%иебвзнтемил%зегонзлы)%лфлдонзл%кѓб%теф%знзтаииъ%цпхеђифщплђ%йлзн+%Ебга%чцч%иалдрѓбил%члтил%че%лкахечнзил%знъзнчн%ефкапчн%иезтеощилжл%йечахѓеоц)%ъпѓ%зегпл%беычщфъ%бѓчъй)%ѓ%кхлзафчн%иалдрѓбиц%плхапуѓмиц%хлдлчц+%Клкхн%ча)%ьл%иебзлхѓ%зга%754<%хѓп)%бнпчеич%ѓ%фкнфцзеииъ%веонэеычщфъ%лбинйн%в%иембѓёзѓэнр%слхй%пличхлоы+",
     "method": "xor",
     "key": "5"
   }
